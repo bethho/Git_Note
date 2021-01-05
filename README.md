@@ -1,7 +1,7 @@
 # Git 學習筆記
 ###### tags: `git`
-Reference: https://www.atlassian.com/git/tutorials/setting-up-a-repository
-Pratice: https://www.katacoda.com/courses/git/playground
+Reference: https://www.atlassian.com/git/tutorials/setting-up-a-repository  
+Pratice: https://www.katacoda.com/courses/git/playground  
 <font color="#dd0000">Note
 建議在文件或資料夾前面加上" -- "，用以和flag做區隔
 > Ex: git init --bare -- tmp
@@ -24,6 +24,9 @@ Date |　Title| Status
 20200613|[git rm](/RD3P5d1gQSqZx5eJqaTpJA)
 20200816|[git commit --amend, git relflog](/jcD0H3klRyyqLrlx8DB1YQ)
 20200817|[git rebase](/8mXYjFAMQqmvNS3RBZkY-g)|補實作
+20200102|[Git merge conflicts](/letBZ7xFRrCmkQVJYQt6RQ?both)|
+20200103|[Git Merge Strategy Options and Examples](/zSPLBikuQIetkXOMmh_3DA?view)|
+20210105|[Git Feature Branch Workflow](/fDS4Y0SqSD-XZipEz0VSQw#)|
 
 ### Status
 tag | meaning
